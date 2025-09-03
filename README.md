@@ -55,6 +55,8 @@ To run the project locally, you need:
 2. Press the **Calculate** button.
 3. The app will display the whole number result of the division.
 4. If any errors occur (e.g., division by zero or missing inputs), appropriate error messages will be displayed, and errors will be logged to the console.
+<img width="809" height="480" alt="image" src="https://github.com/user-attachments/assets/06816855-18a4-49c4-9498-7edcf04b0bd8" />
+
 
 ## Edge Cases
 - **Division by zero**: If the divider is `0`, the app will show an error message and log the error in the console.
